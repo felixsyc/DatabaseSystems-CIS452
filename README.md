@@ -31,3 +31,26 @@ Both of these building consist of 4 bedrooms apartment which example (5101-A …
 
 # UML Diagram
 ![ScreenShot](/documentation/Diagram1.jpeg)
+
+# Database Relational Schema:
+people(umassID, fname, lname, gender, umassEmail, dob)
+rooms(roomNum, building, type, notes)
+mailbox(roomNum, mailboxNum, mailboxCombo)
+occupy(umassID, roomNum, status, checkInDate)
+occupyHistory(umassID, roomNum, checkInDate, checkOutDate)
+
+
+# User Manual Guide:
+To utilize UMassD Housing Application requires to have Eclipse.
+When the Eclipse program is fully loaded and open
+1.	Right click on the “Package Explorer” window
+2.	Navigate to “Import” and click on it 
+3.	A “Import” window will pop up and navigate to “General” -> “Existing Projects into Workspace”, and select the field and click “Next”
+4.	A "Import Projects" windows will pop up... and choose “select archive file” in order to browse the zip file that's provided in the submission. (NOTE* Make sure under options "Searh for nested projects" & "Copy projects into workspace" are both checked)
+5.	Click "Finish"
+6.	Inside the newly created projects, navigate to src -> HousingMain.java
+7.	Right click on "HousingMain.java" and choose "Run As" -> "Java Application"
+
+# Who do I talk to?
+The application function inside the console shell.
+Repo owner or admin: Sing Yang Cheng
