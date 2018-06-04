@@ -30,4 +30,4 @@ Both of these building consist of 4 bedrooms apartment which example (5101-A …
 •	View Occupancy History
 
 # UML Diagram
-![ScreenShot](/documentation/Diagram1.jpg)
+![ScreenShot](/documentation/Diagram1.jpeg)
