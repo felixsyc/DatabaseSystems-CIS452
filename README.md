@@ -33,10 +33,10 @@ Both of these building consist of 4 bedrooms apartment which example (5101-A …
 ![ScreenShot](/documentation/Diagram1.jpeg)
 
 # Database Relational Schema:
-people(umassID, fname, lname, gender, umassEmail, dob)
-rooms(roomNum, building, type, notes)
-mailbox(roomNum, mailboxNum, mailboxCombo)
-occupy(umassID, roomNum, status, checkInDate)
+people(umassID, fname, lname, gender, umassEmail, dob)<br />
+rooms(roomNum, building, type, notes)<br />
+mailbox(roomNum, mailboxNum, mailboxCombo)<br />
+occupy(umassID, roomNum, status, checkInDate)<br />
 occupyHistory(umassID, roomNum, checkInDate, checkOutDate)
 
 
