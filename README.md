@@ -1,3 +1,6 @@
+## Utilized Tools:
+Java & SQLite
+
 ## Description of UMass Dartmouth Housing Application:
 Allow housing’s staff to keep track of who’s currently living in a spaces on campus. Currently the application controls 2 residential building on campus which are Ivy (aka: IV) and Aspen (aka: AS).
 Both of these building consist of 4 bedrooms apartment which example (5101-A … 5101-D) and 2 bedrooms apartment (5102-A … 5102-B). If the room number starts of as ‘5’, it means it belong to IV’s building and if it’s ‘6’ it belong to AS’s building. The second number in the room number combination is the floor, 1 = 1st floor … 4 = 4th floor. Both building have 4 floors. And the rest indicate which apartment and which bedroom.
