@@ -28,3 +28,6 @@ Both of these building consist of 4 bedrooms apartment which example (5101-A …
 •	View all unoccupied rooms
 •	View mailbox information by entering room number (Example: 5101-B or 5101)
 •	View Occupancy History
+
+# UML Diagram
+![ScreenShot](/documentation/Diagram1.jpg)
