@@ -54,6 +54,6 @@ When the Eclipse program is fully loaded and open
 6.	Inside the newly created projects, navigate to src -> HousingMain.java
 7.	Right click on "HousingMain.java" and choose "Run As" -> "Java Application"
 
-# Who do I talk to?
+## Who do I talk to?
 The application function inside the console shell.<br />
 <b>Repo owner or admin: Sing Yang Cheng</b>
