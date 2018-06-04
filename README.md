@@ -55,5 +55,5 @@ When the Eclipse program is fully loaded and open
 7.	Right click on "HousingMain.java" and choose "Run As" -> "Java Application"
 
 # Who do I talk to?
-The application function inside the console shell.
-Repo owner or admin: Sing Yang Cheng
+The application function inside the console shell.<br />
+<b>Repo owner or admin: Sing Yang Cheng</b>
